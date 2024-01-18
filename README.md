@@ -1,2 +1,18 @@
-# Phishing-URL-Detection-using-ML
-By training machine learning algorithms on a large dataset of both legitimate and fraudulent websites, the algorithms can learn to distinguish between the two. This can lead to the development of effective phishing detection systems that can automatically identify and warn users about potentially dangerous websites.
+# IBM-Project-41888-1660645823
+Web Phishing Detection
+
+Team ID:PNT2022TMID41066
+
+Team size:4  
+
+Team Leader: HARI PRATHAP .R 
+
+Team Member: ARIVUSELVAM  .P 
+
+Team Member: NANDHAKUMAR  .S
+
+Team Member: SANJAY .S
+
+
+
+![WhatsApp Image 2022-10-30 at 8 10 04 AM](https://user-images.githubusercontent.com/110247347/199789471-ade7e482-28d0-4a14-b443-da8e0cce43d6.jpeg)
