@@ -1,17 +1,15 @@
-# IBM-Project-41888-1660645823
+
 Web Phishing Detection
 
-Team ID:PNT2022TMID41066
 
-Team size:4  
+Team size:3
 
-Team Leader: HARI PRATHAP .R 
+Team Leader: JEEVA R
 
-Team Member: ARIVUSELVAM  .P 
+Team Member: DHIVYADHARSHINI V
 
-Team Member: NANDHAKUMAR  .S
+Team Member: KAVYA S
 
-Team Member: SANJAY .S
 
 
 
